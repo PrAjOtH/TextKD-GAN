@@ -1,0 +1,640 @@
+oo   o a    a a  a   o    a   a  
+o     oa       oa a   o     o a  
+ao      o  a  a a o a    a   a  a
+oooo a    o a  o o  oa a a o   o 
+  o   a   o oo   a   a   o    a a
+o  o   o    a  a o         aa  oa
+     o     o  a o        a o    a
+oo   aa    a    a oo   o   a     
+ ao   o a  o  oaa o oo    o    a 
+o o    o   oaaa        a   o o   
+o     o a a  o aa o o  o  o a a  
+ o     a o  a  a  o o   a   o    
+  a    a  o   o o  a a  o a  aaaa
+oo  o        o o  o    o        a
+ o    aaa a a a o a a o a   a    
+     a a o oo   o o           a  
+o o o o o o   a  a o ao    a a  a
+ a  a a      a    o  o  a  ao a a
+oo   o  oo  aaa  a o oa  o     aa
+  a       o  aa     o   a   a    
+o o   a o a oo   o    o    aa    
+ o o  a         o     o   oa  a a
+o   o     o o   a a     o ao    a
+  o  o oo a  o  ao   o      o o a
+ a o oa ao  ao  oo   oa     o o  
+ oo o   a aa    a   o   oa    a  
+o      a a oo   a o aao   a   a a
+ oo   a       o a   oo a a    a a
+oo  o  o    oo oa o o o  o ao   a
+o  a o o    o          o      o a
+o  a     o a o  a    a o oa    aa
+oo o a   o  a o  o   o o o   o o 
+ooo  a  a    ao      aa      a  a
+o  o a       o    ao        o o  
+o o    o ao   oa   a o a  o  a  a
+o o  o o oa o  o      oa  aa    a
+ o  oo    o    o  a a oa  o   a o
+ a   o  a o   a     o  o o o ao a
+ o a o   o   ao    o  o a a  o oa
+        o o  oo    o o aa    o   
+oo   a    oao    o  a    o  o  a 
+o o  o aa o a oa o    o     a o a
+o   a  a   a   oa o     o o o   a
+oo o a  o   a a  a   aa     a   a
+oooo  o   a a  o aa  a a o  o    
+o   o o  a       o o o   oa o  a 
+o   o    o           a    aaa a a
+oa  o   ao   o o o   aa    aa    
+o   oo    aa        ao o a o  a  
+oa o       o o  a     o o  a  o a
+ooo    o  a a o    ao   a o  aaa 
+o        a    o       a   o a a  
+oo o o   a               a o    a
+ oo a  a  o o     o      o o  a a
+o  ao oa     aa o o   o a o      
+ o  a a   o o a  a  ao  o  a a ao
+ao     a   a a a  o     o    a aa
+ooaa  o     o a   a o a   o o o a
+   o o     o o  o    ao    a  a a
+ oo oa   oo a    o  o o oa o a  a
+o  o     oo aooaa a  a o  o a o a
+o  o o   o     ao a  ao o o o o a
+oo o aa    oaa a   a    aa o     
+o oo   o aaa      oa  a     oa aa
+o   o  o  oao  o   a    o o      
+ o   o   aa  oa       aa     o  a
+   o   o o o  a o     ooa  a    a
+o       o  a  o  a o     o  a  a 
+o  o  o ao  a    aoo a    aaa    
+o    aa o o  oo     o  o a  a   a
+ o o  oaa     a    a o  o o   a  
+  oa a oa  ao   o  a  oo o  aaa  
+oo o  a     a    ao  o ao  a o a 
+oo  ao   o  oo  aa       o  o a  
+    o  a o  o  oaa   a   oa    a 
+ooo      o a  o       a a  a o aa
+o   oa  aoa    o a          a    
+o oa     o    o   o oa o  o oa a 
+o o   o       o oao  aa  o o  o a
+ o  a   a  a  o o  o  o  o   aa a
+ o o o        a   o o  ooa o oaa 
+oo    a  aa oo  o  o    a       a
+ oo  o  o o   o o      a a   aa  
+o o   o   o a  a   o o oa  ao  a 
+o       a o ao ao   o oo  a o aa 
+o   a  o    a a o o o      ao   a
+  o oa      o  o  o o o    a  a  
+o  ooa    a  o  o o    o   ao o  
+ o o o       o  o   o o  a oa    
+o o o o o o  ao  o  oo aa o  ao  
+    o   o o   a  a  o    o    a a
+o oo o a    o  aa oaa o o o  aa a
+o  a o   o  aa a o   aoa aa  aa  
+o a   a o       o o    a   o     
+o a      o  a ao   o  a a   o a  
+o     a  a  ao  a o  o        a a
+oo o o a    a     oa o  a    o   
+o   o a   o  a    o  o o      aaa
+o  oo  a       oa o o   o  o    a
+o o  a   o          a  o o  a    
+ o    a    a    ao    a  o      a
+oa o a a  a o o   o  a   o   o  a
+oo   o    o a  o  o oaa     o  aa
+o o o a a oa  aa    oa  a  o  o a
+o         o    o  a    oo      aa
+o  a     oo o  o o   aao    a   a
+o    a a a  a     oa  o     o   a
+a o     a      oa   o  a  aa a  a
+o o o     a a              oo o  
+o o  o a oa    o    o o  aaa  aaa
+ o      a o   a     aa  o    aaa 
+ o   o   o       o a o    oa a   
+ o  o   o  o     o aa    o   a   
+ oo  o   o aao  a   a oo o  o  o 
+o o a  a o oo oo     oo o o  a  a
+  o     o   a    o aoo           
+ooo    o  o   a   a     o  o   aa
+ o  a    a  o  a    o a   a o a o
+o o    a   o             a o o a 
+o o  aa o  a  o    o  o    o o   
+o     o   aa   a    ao a  oo    a
+oo o  a o  o  a   oa o  o o    aa
+     o       a    o a  a a   a a 
+ oa  o a      a     a  ooaa  o aa
+ a      a       a o  o  a    o   
+ o        a       ao        a   a
+ o   oo a      oo  ao   o o o o a
+oo      a a aa   o a o o oa   a a
+o aa  aao      o  a o   a    o  a
+ o a oa    aoa  o o   aaa  oo   a
+o ao        o  o a o o o o    aa 
+ o o   o aa       a   o oaa    aa
+o o   o  o a  o  o       oa  a   
+o  a oa       a a o   o    o a  a
+o o o  o  oo        o   a     o  
+a o a a oo  o o  a  a  o o o aa  
+oo  o a  o  o    aa  o  o  a    a
+ o  a o    a         o      o    
+ o o o o   o aa  o a o a aa   a  
+oo   o a  o   aa o  o  o a     a 
+o   o o  o oa    a   o a a o   aa
+o o a     o   oa o o   o      aaa
+a     o    ooa  o   a o  a   o   
+  o     o a  a  a o  a a a   a   
+oo oo o o  o a   o     a o oo o a
+o    o     a ao  a   a  o ao o a 
+  o   a   a  a  a  a ao  o     a 
+ o o  oa      a   o     a aa o  a
+ o  a a  o  o      a o   a a     
+o   a  a    o  o     o  a aa  a  
+oo oa o  a a  o o oo  o a  a  a a
+o  oa  o o  o  o a    a o o o  aa
+oo  o  a o     o      a a  a    a
+oo            a  aa o       a    
+o aoo   aa oao  a  o o a o       
+oo o a     oo    o    a   o   a  
+aao     a   o a   o oa oa     o  
+o   o o  o o      oa  a a   o   a
+a   o  o         a oa    oa o a  
+oo oa  a       o   a    a o o   a
+o  a   a o oao o  a   ao  o o a  
+oo  a   a  o   ao o             a
+ o  a  o   o oa o   o o   a   a a
+o    oa a o   oao a     o a     a
+o        ao a    a o o        a  
+o    o     oa        o    oo  a  
+o   o     aa     a o     o o   a 
+ o   o   a   ao    a   a  o  a   
+o o o  o  a a  o     a a   aa  a 
+o    a   o    o   a o   a oa aa  
+ o  ao a    a  a a          o a  
+    o   a  o  a a  a o       a aa
+o  o     a  ao       a o    o    
+o   o o  o ao     oa o    o o    
+o      o  aa o    o      o a    a
+ o  a o a       a  o    a o  a a 
+oo o    a  aa    o   o o o   a a 
+ooo o o  o  o  o a   a  o    o a 
+oo   a ao     o  o         aa    
+o  a   a    o     aa    a   o   a
+o o  a       a    a   oo a o     
+oo     a  a    a  aa    o       a
+o o o  a a     ao  a  o    o o  a
+o o o    ao       o   a   ao    <PAD>
+a   o o oo o o  o    o    o o o  
+oo o o o     a a o  a o   a a  oa
+o  o o     oo   a   o o  a o    a
+ o     a aa    ao  o     aaoa   a
+ o  o    aa   a    a  o   a  o   
+o  o a o    aa    o  a o a     o 
+oooa   o o a a o oa   o     o  aa
+ o  ao  o o   o oo o o       ao  
+o    a a    a oa         a   a   
+ o    a  o a    aa  o    o     aa
+o o  a    o    o   o     aaa a a 
+ o     a   o a   o      a     o  
+o a o  a  o o  o  aa a  o      a 
+o o  ao  o a  o a o aa   aao o a 
+oo  o  o o o o o   o  o   o    a 
+ o   o  aa oo   o  o  o a   a    
+oo   o o a  o o a   a a  o a  a a
+ o o a  o  o o    a   oo  o  oa  
+o o    o o a o   a   a    o    a 
+oo   oao o  a o     o       aa   
+oo  ao   o   o   a       ao    a 
+o   o       a       o a    ao   a
+o o   o   o o o   o  o      oo aa
+ o    a o                a o   o 
+ao   o a        o   a o  a a    a
+a o   a o  a a o   a   ao    a   
+oooa    ao   a       a         a 
+o o   a    a  ao  o  ao a o  a   
+o  oo  o o  o   a aa    a   o    
+o o      oo a  o    o a    o     
+ oo   a  a    o   aa     o a o  a
+oo  o  a o      ao           o  a
+ao   oa oo         a  o   ooa o a
+a o     o  o aa o o      aaoo    
+oo   oa  o         aa o a ao  oaa
+ o       a     o o     o  a  a   
+ o  oo ao         o o o o  a   aa
+o  o a o      o            ao   a
+oo               o    a    a    a
+a o    a      a       oo    aao a
+   oo   o  o o    oa a a  o   aa 
+oo  o  o o  o  o    oa  o o  o   
+ o a  o a   o a   o ao   oo ooaa 
+o a    a   o    o o  o a    o o a
+o oo       o  a   a a  o  ao  o a
+ o   o a        o     a  o  aa  a
+ o          oo o        o oao o a
+oo o a    o aa    oo  o     a a  
+oo  oo     aaa   o o oa     o aa 
+o a o o a    o  o  o o o  o   a  
+oo       ao   a   o  oaa o       
+    oo     oao  o        a o     
+o o a    a   ao    a      a  a   
+   o  ao a  o   o o a  a o    a  
+o a oa o     a a  o    a oao  a  
+oo a  ao    aa o    o o  a     o 
+ooo     o  o a   o o        o  aa
+o  o       ao o a      aoa  a    
+oo   o    o a      o       o ao a
+oa    o oaoo   a  a  oa a  o  a  
+ o  o a  o   o   o   o a  o      
+o       ao       a o oa   oaa o a
+ o oo a o    o   ao o  o o o    a
+oo o   a  o a o   a  a  o    o a 
+  ooa           o  o  o   a   oa 
+o o  aa   aa  oaa  o       a  a  
+ oo o    o   aoo    o  o  ao    a
+oo       a a a o  a a o     o  aa
+ooo a o  o  a  oo     a     o    
+oo    a a    a o aa  aao   a   o 
+oo   oo   oa a       aa  a   a a 
+   o  aa   oo   o o   o  o o oa  
+oo o      a       o a o  aa  a a 
+ o o   a a         a      o a   a
+o o o     o  a o a  oaoo   o   a 
+o o   o     a  o a   a o  a o aa 
+o         o    a      a a  o   a 
+    o o o       o  o o   o aa    
+a o aa a aoo    aa o  o o ao   aa
+ o  o   o o      o  o o  o  a   a
+a o o   o  o  o    a      o    a 
+oo     o   aaa       o  oa o a a 
+ooo aa  oaa    ao    o  a   aaa  
+ o   oa      o  ao   oa  o aa oaa
+o oo  a   ooa o   ao  a    o o   
+ooo   o   aao   o  o  a   o    a 
+o            o ao o a     o    a 
+ o o      oa      ao oa  a     a 
+ oo     a oo o  oo o oa  o    oa 
+oo   o         a           o o  a
+ o  a a  a a   a   a    o a  a  o
+o o  o  o  a   ao     ao   oo a  
+ oa   oa  o oo o          ao  aa 
+ o    o   oo       o  a   a    a 
+o o o     o a     a  o  o   o o a
+ oo     a     a     o aa     a  a
+a o o o  o  o    a o a   aa   a  
+o  aoa  o o      o     o   o aaa 
+ o      o a    aa   o   a    a o 
+o   o   a o    a  a           a a
+oo  o   a o  a  a aa    o  o   a 
+  o   o  o      a       o   a o a
+o oo  o  o  o        a ao    o  a
+o oo  oo    ao   o   o    oa   a 
+oo o o o o aao  a oo  o     o   a
+o o a    a o  a  o a    aa   a aa
+    a a  a        o a      a o   
+ooo        a  o o     a  a       
+a    aa o  a  o o     aa    aa   
+ o   a       aa a o  oao o  o    
+ o o     o o o   o   o   o a oa  
+  o  ao o       o   aa     o  o  
+ o   o   oa ao   oo  aao  o o  a 
+o o  a o   oo    a  a  o   aa    
+o     o       ao    ao           
+o    ao   o   oao oa        a   a
+o  a  a o   aoo  o o a   a    o a
+ooo      oa o o  o o  ao  o  a   
+o o a o   oa    o oo     a  oa   
+o oo a o   o oa  a    o  ao     a
+ o  o a  o    a    a      o    aa
+a o   a   o    o      a     aa  a
+ o o  o o      ao  o  o o   a  a 
+ o  a  a  o    o           ao a  
+o oo   aoo    a   oa   o    aoa  
+a o aa o a   o  oo  o oo oa  aa  
+  a     a a  a o   oao   a    a  
+  o aa  a  a  o    a o    a   a  
+o o a o       o a o a a   aao    
+o       oa      ao o  ao  a  o  a
+o     aa o  a    a o  a    a    a
+o     o    o    o oaa      o  a  
+oo   o o ao aa   a  oao o a  a aa
+o aa a   a        o  o a aa o    
+ao  o     o o     a o a a   a    
+ o o     o  o o   a  o o oo o a  
+o oa a  o  aa o  o aa  o o   a o 
+oo  a    o ao  o a    a        aa
+ oa    o  a   aa    o   o a o a a
+    ao a   o  a    aa   o o o  aa
+ao    a  a  a    o o  a    o a aa
+o     a    o    o a  o   o     a 
+a o      a      o   a o   o a    
+oo   a o         o   a  oo     o 
+  oo  o   o   o o    o          a
+ o  oo   oo a    aa  a o  o o    
+oo o o       aoa   a o  o a oaoaa
+o       a o a    o  a    aa   a a
+ o o o  oa o    aa  a o   o      
+ao o   ao    aa    o ao    aa    
+o o  a   a o oo o a  a   oa   a a
+        a o o   o   o    a o  a a
+   a o        o o    a o         
+ooo   a o     o o       o  oa o a
+  oao       o       o oo   oo o a
+ooa  oa  a   a a      o    o  o a
+o o o  o o  a    a o   oo     a a
+oo    o       a  a a a   o a   aa
+ o o     a  o o    o    oa   o   
+o o a  a       o   a    o  a   aa
+o o   a  aoo       o  o   ooa  a 
+  a o    oo o  o          o   o a
+o o    ao      oa a     o  a o a 
+o  o        aa   o   oo  a o  a  
+o ooo    a    a  o o o o   o  o a
+oo o aa      a o     aa   a    aa
+o o o a  aoooo      oa    a a o  
+o  o   a o oo     oaa oaa a o    
+   o aa oa o o  o       o oo  a a
+oo    o  aa     a  o      a o   a
+ oo a  aaao a o o   o    a o a  a
+o o o                o   a  a o  
+ooo     a    a  o a    a o  o o a
+o        a o o  a    ao  aa a  aa
+o           a o     o  o   o a a 
+o   a    aa           o a   o   a
+o o   o    oa  o  o   a a oaoa  a
+ o   o        ao    o aao  a   aa
+o  o a a o   o  aa     o        a
+  o o     ao o  a o aao   a    a 
+oa  a o  o o oo a    o o  o  o  a
+ oo   a a    oo ooo  o a o  aa  a
+ o     a a  a    oo  o    o oa  a
+o o  oa    o o  o o   a     aa   
+o   o o  o  o   o a      a a    a
+o o o   a o   oa   ooa  a  a   a 
+o o a     o  a    o    aa   a  aa
+ oo  a a  aa  o o  o  o  a a a aa
+o   a   ao  a    a  o    o   a   
+oa     o    o  oa o a a a   ooa a
+o   o   o   a      aoa  a  a o aa
+  o o  a aao   o    o            
+ o   o o o  aa o  o  aa         a
+o oo      oa  o  o o   o    a o  
+o o a  o  a    a    o  o o    a a
+o   aa a ao a  o a a   o     a   
+o o a   o  oo   oa o    ao o   a 
+oo       o    o o       o oo a aa
+o    a  a  oaa a  o a     o o    
+ o o a   o       o o aoo aa    a 
+  o  a   a   a   a   o   oo     a
+    o   a         o o     o     a
+oo  a  o oa o  o  a   a  a o a a 
+ao o  o   o a o   aa a  o  o o  a
+oo    a        oo   a      a   a 
+o     o   o  o o   a a a o  o o  
+ o  o a        a  o    oo    a   
+ooo o o ooao  o      a   a a     
+o  o  o a oo    o  o a      a    
+ o  a o o a     ao      o   o aa 
+o   o     o       o  o      aa  a
+o        o  o ao      ooa o  o  o
+ o   o a       a  a o         a a
+o      oa a   oaoo   a o o o  ao 
+  o    a o  o o o a a   ao       
+o  o o  aa oa  ao  o   a  ao    a
+o oa  o    a a o  a       o o a  
+ooo    aao    o    a a o o a aa  
+ o o  a     aa o    oo  o a   o a
+o  a o a   a o      o  o  o o  a 
+o  o     a a   o   a      oo a o 
+oo     o   aa o ao  o   aa   o o 
+o o  o o o   a o      o o      oa
+a     o a  o  o    a oa a  o    a
+oo   o   o     aa          aa   o
+ooo a o       a a o o     o  aoa 
+oo o o o oo o   ao     aoa o     
+ o o a oa  a   a   o ao       a a
+  oo      o o o   o    a   a oa a
+o o a  a  o   o      ao o    a a 
+o o oo a   o a o o o   a     a a 
+ooa   o a      o  a    a o oa    
+oo o o   o a    o  a     a       
+o  o   oo  a  a    a    a    o oa
+  o o  o   a  ao  a           a  
+a o    o o  o  o       a  aao  a 
+oo         o   o  o a         a  
+o    a    o o  a   oa    a oa  a 
+ a    a a  a a  a o a   ao   a aa
+ o o  oa o aa  a     a  o   o    
+o       o  o a o  a o  aa oo   aa
+oo    o a     aoo o            aa
+o o a      a o  oa   a o       a 
+o  o      o      o a   a   oa   a
+  o     a a o a a o   oo  o a   a
+ o      oao   a  a         o o aa
+oo    o   a ao   oo   a  o o  a  
+oo   oo o   a o ao       o oo aa 
+a a   o o a   o o oo oa   o   a  
+o o    a o   a a o  a      oa   a
+c o   a o a   o  ao o o      a  a
+o o     o      o a   o a      o  
+  o   a o  o o o    o ao     o   
+ o   o o  a    ao      a a  aa   
+ o   o a   a   a o  aaa  a  o aa 
+oo     oa    a   ao    a o  o a a
+o    a o oo o         oa    o   a
+oao  a      a ao        aa       
+o o       aoao o    o a a  a   aa
+o o     a oaa  aa o      o o a a 
+oo  a o o   o   o o        ao a  
+o aa  o a oa  o  o o a oo    a a 
+ oa   o      a  a o ao   aa   aa 
+ o o oa    o  a   a o o o oa o aa
+o oo a  a o   oao a          aa  
+o o    o oo a  a  a oaa o   a   a
+ o   oa       oao   a o  aa  o   
+oo    a o  oa  o a   o      a  a 
+    o        o           a a a  a
+oo    a     aa    o  oa   a  o aa
+ o   o  o  o aa  o  oo    o   a  
+   o ao     o   a o    a o o o   
+oa  o o        aa  a o  o ooo   a
+oo  o o o o   ao  aaa   a  o  oaa
+oo o o a a    aa  oaa o     oa  a
+oo o o        aa o o o o o   o   
+o o o o  ao o  o    oaa a  o   aa
+ o  o  aa  o  aa   o  a a o   a  
+o oa a ao o   o        o oa     a
+ao      oao      a o o  o  a oa  
+oo a  oo     o    o  a aa aa a  a
+oo   oa    a o   a   o    o o   a
+ o     o o     o     a    a    a 
+o      a o  a  o   o   aa   o   a
+ o    o     o oa o    a  o o  a  
+o o   aa   o   a o    a o oa   aa
+oo oa  a    a    o  o a a o o    
+o o ao   o       a  o a    a  a o
+a oo o      o  a  a    o a       
+  o    a a  ao  a   o  o ao     a
+ o     a        a   a     ao  a  
+o o    a         a o  o o a  o aa
+oo   o a o        a   o   oo o  a
+o o    a o  o    a o o aao  o  a 
+  o o  a      ao    o   a      o 
+o   a   o o     a      a   a a  a
+o o   a  o  o  a  o           a a
+oo  o  a o   o  o o         a   a
+o a a    ao    o  a o a  o      a
+o ao     aa      a o   o    a    
+oo o o o a  oa   a  o  a o     oa
+aoo     a  o a    a ooooa  o   a 
+e o  o o  a   aa    o     a   a a
+ o o      oa      oaoao ao   a a 
+oo   oa a   o   ao     o     ao  
+  oo     ao ao   aa      a  aa   
+    a     o a o    ao  o  a oa   
+oo   o  a o  o  a o    a aoo a  a
+ oo o   o ao o  o        o o  o a
+oo   o          aaa   oo o  o  aa
+ooo     aaa    o  o    aaa o a  a
+  o   a oao    a   a     ao   o  
+ o o   o a o   a   a    a     oa 
+  a a a  o   o  a         o   a  
+       a     aa a      o o      a
+ oo a    o a       a oo   ao a  a
+    oa  aao oo   aao  oo    o o a
+oo o o   o   o o       o   oa o  
+oo a    aa  o     a       aoa   a
+oo oo  a  a      o o    o   a o a
+ o   o o  o    oa a o o o     o a
+ooo o o  oo o   a o      a       
+ao  o  a o  o    o oa     o     a
+oo  o  a       o  a o  oo   a a a
+o o    oo o o  o  a o  ao  o     
+o o     o a a o  o   o ooo   a   
+oo  ao ao  o aaa o o     aa  aao 
+o o o  o  o a  o a oo    a   a a 
+ o o o     ao   a o o oa o a  a  
+oo       ao o  o o  o  oa     a  
+a o    a  o   oo  a o   o  o o  a
+o  o a  a o  a  aoo    o  a o   a
+o  oa o o o     o ao o  o oa   aa
+oo oa    ao     a   o   a   a o a
+o     o a aoo   o  o   oa     a  
+ a  a     a     a o a    oa   aaa
+     o o a o  a o    ao o o   oaa
+o oo o o a    o       oa   o o  a
+ o  o  a  o       a a o   a      
+a  a     o   a     a ao      a  a
+ o o a   a  ao   o   a o  a      
+oo  oa   oa  o  ao    ao  a o    
+o a       oo  oa   a a  a o  o a 
+o   o  a a        o     a o o  a 
+o o   o o  a    o    ao o  a     
+ao   oa a  aa o  a  o      o aao 
+o o      aa a a      o   o oaao a
+o    o o   a  a  o o  o  a o o aa
+ ao  o    a a  oo o a oa a o  a a
+o oo  aa o      a   o   o      a 
+oo   oao o  a  a      a a a o oo 
+o  o a     o o        oa    a oaa
+ o   oa    a  a a  a  o  a o   o 
+ o  ao ao    o a a  o    aao    a
+o  o a a o  o     a oaooo a o   a
+o   oao  o a    aa        oo    a
+ooo o       a   ao   a      o    
+ o  a   a        a  o      a    a
+o a        a   o    a o    a o   
+o  oa o   o a      a o aa a o   a
+ oo  o a  o         o o   ao ao a
+ o     oa   a   a o o   oa   a  a
+a o  o   o oo  oo o  a  a o  a   
+o  a a a a  o a a   a a      o aa
+o o o     a   o           o  a   
+o oa   a   o o  o o o  a   a    a
+o o  oa o  o oo  o   o a o    o  
+ o  aa   o  a       o o    a  a a
+ o o  o o   aa     o    a   ao  a
+o o o    o o      o   a   o a o  
+ o        o a  o  o   o     a   a
+oo             o      a o oa     
+ o o aa  a   o  a  oa oa  o a o  
+    o o  a o o  o   aa   a  o a a
+o o        oaa  o o   oaao  aa a 
+o  o      a a       oo a  o   a  
+oo   a oa       oo   ao  o  a    
+   o       oaa    a  o   a    oaa
+o  a  oo  o  a a o  a oao   a  o 
+o  o a   o o a o  o aaa   o  a a 
+ aoo     a   a o    oa  a a     o
+o  o         o       ao   o    aa
+oo  o     a    ao  a   a aa  a a 
+o o   ooa oo aoo     a         a 
+ o o o  a a ao  a oo a a o a     
+  o  oao    oo     o a   o    o a
+ooo  o   oa o  oa o  o a a  o o a
+oo    o   a     a o    a   o  a a
+ o   a  o o   o  a    o     o   a
+oo     o o o    a   oaa a  o o aa
+o o o a    o o    o  a o   a   a 
+ o o            a a   o o   aa   
+oo      ao   a o  o   a   o  a aa
+oa     o  o  oo          a a o a 
+ o      o   oa    o a   ao     a 
+ao  o   o    o o     a    aa     
+o o aa    a      o oa  a a a o  a
+oo o a   aa  o       o o    a a a
+o oo        o    a  o ao     oa  
+oo   o    a o o    a  oa ao  a  a
+oa    o a     o  o o o a o   o   
+oo  o o o     a  o   o     a a o 
+o   o a  o o   ooa     a  oo     
+o  o o o   o        oa    o   a a
+o o  aa      a o     a o  aa   a 
+o  o  a o      ooao   a  oo      
+o  a    o a a    a  o o a     a  
+ o a  o o    aa o  a    a     a  
+o o   a o oo  a    aoo   a     a 
+o o  o  oo o   o    o    o o  a a
+o o o oa a     o     o a o o  a  
+oo a    a o       a o  a o     aa
+ oo a    a o       o  o a   a oa 
+ o          o   a o a  o ao  o  a
+ ao  o     oaa      a aa o  aa a 
+o o   o    o  o      o  a      oa
+ oo   a o a  oa o a   a  o  a   a
+ a ooa     a o     a   o    o o  
+o o     a a       o      a   a   
+ o o  o    oo     o a   a oo o   
+oo    o  a  o  o    o  o  ao  a  
+ oo   o  o a  a    a        aa   
+o o o      o    aa   o a   o   a 
+a   o  aa    o oa   ao  a oo    a
+o o  o a a        a     a o  o a 
+oo  a oa o  o   a o     ao   a  a
+ o      o  a a  o   o oa    aaa  
+ o     ao    a        o a a  o a 
+ oo a           o oa    aa oa  a 
+oo o       oa     o aaa a o aa aa
+aoo      o o aa      oaa a   a a 
+ o   a o o    a oo    oo o  o a a
+o    o o    a    o  a    a  o a  
+o o     o     oa    o  a   aa o  
+oo  ao  o a               ao     
+o o o o   o o oa     o  o    a   
+ o o  o ao aoaa  o   o oao   oaa 
+ o  a  a   aa o  o o         a a 
+o o    o o   a o  a    a o      a
+  a       a o  o  a   oao  ao a a
+oo   o       o a       a a o a oa
+o o   o      o     a    a aa  o a
+a           a oo   ao a ao    a  
+ o    o         a o  a    oo a   
+oo   o o o  a  oaa     a oa     a
+ooo  o a   a  o    a   a aa  a o 
+ oa o a aa   a   a o      a   a  
+o o  a o  o   a   o o  a o a o aa
+ oo     o aao o       a     a a  
+o   oa o aa o   aa o    o   a a  
+ooa o       ao    a  oa o  a    a
+o   oa    o     a          a    a
+o o   o o a     a      o o  a    
+ooo         a a   a   aa a   o aa
+o        o       o o   o oa a o a
+ o   oa o  o a    oao o a aao a  

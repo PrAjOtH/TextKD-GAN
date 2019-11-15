@@ -1,0 +1,640 @@
+ oao oa o oa a aaoa oaaa aa o o a
+o oaa oa oa aoooa a o o oaoaa aaa
+oo aao a aaao oaao aa a oao aa aa
+aoaoo o aaa o   aaoaaaaao aao a a
+ oaoaaa oaaooaaaa aa  aao  aa a  
+co o ae o o  aa oo  aaao aaaoaa a
+aa  aoa oe o a  a o a o aa a  o a
+ooo aaaa oaao   a o o  aoaa aa  <PAD>
+aoo aaaa oa  aaaaooaao  aa a o a 
+ooaoooao a aa aa aaa  aaoaaoa a <PAD>
+aoaa  a oo a ao oaoaaa aaaao  aae
+ooa a aaa aoeaaa a aaaaaaa a  aa 
+oo aaaoooaaaa oa o a  aaa  oo a <PAD>
+oo oaaa oaaaaoa oaoo  oa o aa a a
+aoo ooaa ooaa a aa oaoa   ao aaaa
+oo oao o o a aaaa oa aaao aao oa<PAD>
+o   oaoaoao a oaaa oaao aa aa a a
+o a a  aao ao  o aoo  o a aaa aa<PAD>
+ao a o aaaa  aaaaoaaao aoaao a a<PAD>
+ao oao o a a oa ao aa oa aa oaa a
+oaaao aaaaoaaaoaaaaoaa aaaaoa a a
+o oao oa aao a oa oaa  aaa oaa a 
+aaooaaaoooaoaaao aao oaa a aaeaao
+ooo aaaao aoaaaoao o a aaaao  aaa
+o o aao aoaa  aaaa  aaaa  aaa o a
+aaoa ao a o aaaaa a a aa aooa o a
+ooaaa  a aoaoa o aa aaaaa  aaa  a
+aoa o a a a aaa oao  aaaao aaoa a
+oo aaoaa aaaoa aao o ao aaa a a a
+ooa aoao o aoa aaaoaaaoaaaaaa a o
+eo aaoaaaa a  aa a aaa  aaaa o aa
+o  oaoao aaoo a aaaaa  aaaa aaaaa
+ o a a aa o a oaaaa a aaoaaoa  oa
+a e  oaao aoaaaaoaa aaaa aae a a 
+ao  aoaaaaa o  oaa  aoa aaoa aaaa
+a o ao o o a oaa o aa o a o o aoa
+e  o aaaaao oaoa a aaaaoa oa oaaa
+oo aaao aoaaaa a aa aaaa oaao aa 
+a a oaa aaoao  aoa ooa    oaa a a
+oo a o aao aaa oaaaaaoaoaaaaoa aa
+ooooa  a aoaoa  aaoaao aooaaa   a
+o oaa oa o  o aoa  oa o aaa aaa  
+aao aaaao ooo oaoa oa aaoe aao aa
+o oa  aa aaaa aaaaaa oaaaaaoao aa
+o aa oa o aa  oaao  aaaooaaoo aaa
+aoaoaao aa oaa a aao ao a a o oaa
+ao  aaa o aaa  ae  aaao a aao a <PAD>
+ oa a  aaaa oa a o  o  aaoa a aae
+o o aaaoo oaa oa aaa o aaa oaa  a
+ao oaa a aaa a o aa  aao oa o aaa
+o o aa aaaao aao aoaaaaoaooa aaa<PAD>
+ ooaa aaoa ooaa oaa o ao o oaao a
+o oaao a   aa a aa     aao oaa a<PAD>
+o o  a oaaa aa   aaa o aa ooa a a
+ooa aaoao oao  o aaaa  aoa ooaaaa
+ao oao oaa aaoa aa aaaa  oa  a aa
+ao  a aa oa oa o a aoa  aoa  o a 
+aoo   o a aaaaaaaa  oo aao o aoa<PAD>
+oo a aaa o  aaao oa aaaaoaaoao aa
+oo  a  aaa aa aa aaa aa a o aa aa
+aoo  aaaoa  a oa o aaaaaaaaao a  
+ oaa oaaaa aoaao aaaoo aaaa  oaa 
+oao o oaa ao  a aaa aa a a a o aa
+aa oaoa a ao a oaoaaaaaaa o  a a 
+o aaaao aooaoa a  a aa  o oo o aa
+o o aaaa oo aa o o aoa  o aao oaa
+oo aa o o a o o  a a o aa o a aa 
+ oo a aa o aaaaoa a oaoaaaaaao  a
+aa o a a aaao o a oaa o aaoaao aa
+ao o  aaao oaaaaoaa  aaaa o a o a
+oo ao oaa oao a   oa aa o  aaa aa
+ o  aa ao aa  o ao  o aooa aoaa  
+ooo  ao a a oa  oao aaoa a oa a <PAD>
+oo ao ooaa aaeaoa a oao a aao a a
+o  aoa o oaaa  o aaaa aoa oaooe <PAD>
+aoa a  aaao aoaaaaa o aoooa aao a
+oo o oa a ooao aoaao aao a oaaoa 
+o oa aoo  aaoo  oaaaa aa oo a a a
+oo o a  oaao  aaa  o aaaaa  aaaa<PAD>
+ oo aaa  o a oaoaaoaa o  aoa o oa
+ao a o a oa oa a ooao aaoa oaaa a
+oaooa  aaaoo aaaao oaaa oa a a aa
+oo  oa a aao  aa  aaa o o aaa a a
+oaoaoaaaaoaoa oa oaa o  a eao   a
+oa  aa oao oa a aaa ooaoao aaoo  
+oo aaaoo o oa a aa  aao aoo oaao 
+oooo oaaoaao  aaaa oaooaa  aaa aa
+o oa aaaaaaaaa aoaa a  ooaaoa a a
+aoa oa aaaaa  aa aaaoa oaa o a aa
+ao aae ao aa a oaoa a aa  aaa a a
+ooao a aaaaaoaaa o a aaoao  aaa a
+oo aaaoa aoaaaoaao  aaoaaa  oaaa<PAD>
+oo aaao o a ao o e  aaaoa aaa a a
+oaoaa o aaoaa oaoaaaoo a oooaaa a
+ooa oaaaooo aa o aa oo aoe oaoaaa
+o aoo oaaao aooaa a aa  oaaaa   a
+aoaaaoaaaaa aaoa a aaaoaoaao aaa<PAD>
+  aoaaa a oo  o a oa a aoaaaaaaac
+oooa oaaaaa oaaa o ao aaao a aa a
+oo o aaoao aaa oaa a oo aaoao a a
+ oaaaae oaa oa a aa aaoaoaaa oaaa
+a oa a aaa o aaa  aaa o aaao o aa
+aoo a aao aa a oaao o aaao a  ao 
+eaa a  aaaaa  aa   ao aaaaa a aaa
+oooa  o a oaoao oaa a  a o ooao a
+o ao oaaoa  aa o aoaaooa oo o  a 
+aoo aa  o ao oaaoaao o a aa o oaa
+a o o aaaao a aa o aao   oa o o o
+e a aaa  a oaaa aaao   a aa aaaaa
+o  aao oa a ao  aao  aoa a oaaaa 
+ o oaoao aaaaaaaaa o  aaa a aa aa
+oo ao oaaa  aoa  aaa o aaaa  ea a
+oaa aa a  aa  aa   aa o o ao  aaa
+oaea aaaaao oa a aaaa  oaaaoaoa a
+oa a aa aoo aa a o aoo aa  oa oa 
+a ao  a oa  oa  oaa  aa  aaa o aa
+o oaa oaoaa a o aa aa aaa aa  aaa
+a oo aao aao  aaaaaaao o aaaao aa
+a   oaoa  a a  aaa oaaaeo oao  aa
+oo a oaaa  a a aa o  oe aaa oa aa
+oa o aaaa  a aaaaaaa a  aao aa aa
+  aaa aaaaa aa aao  a aao a   a a
+ao aaa ooaa aao aa aa oaao aaaa a
+ooo oaaaoaaaaaaoa a aaaa oaaa a a
+o aoaaaaoaaooaao aaaa oao aaa o a
+oo a a oao  o oa aa aao oa a o aa
+oaaaaoaaa a a aa aao a o oaaoo aa
+oa aaa  o aoaaa a o aaa  aaaa oaa
+ oa o a aa aoo  oa oaa aaa  aao o
+o o aa aao a  aaa aa o  oaa o aao
+oao aa a a oa oaa o oaaoo o ao aa
+oa  oao o o a o a aaaaa  aaoa o a
+oaaaoaaao aoaaaa  a aaaaoo o oaea
+oo a o aaoo aaaaaoo aaoaoo aoaaaa
+ao a  aaa a oaa   aaoaa a oaaaaa 
+o  a o aaaaaoo aao aa aoaaa aaaaa
+aoaaaa aaaoooaaaaoa aaoa a aaa  a
+oo o oaaao a aaa aaoa aooao a aaa
+ao  a aa aa oa  aaaa ao aaaaao  a
+aa   oao oa  aaaaaa oaa o aaa  aa
+oa oaaa a oaa oaao a aa aa aaaaaa
+o a a aa ooaaooa a  aaaoa oaaaaa 
+o o oa aoaa oea aao aaaaa oa oa <PAD>
+oaao aaaaaoaa oaaaao oaa o aaaaa<PAD>
+oo  aa aao a ooaae aaa aaoaa aaa<PAD>
+oo aa o  a a oa aoa  aa  a aaa a<PAD>
+oa aoaa ao a o  oaao a o ao a a a
+oo oaaaaa  aaaa oooa oao oaa aaaa
+ao o aaaa o ao o oa aoaaaa aao   
+ooo ao aao aaaao aaaoaao oaa aaoa
+o a ao aao oaa oaa a a o oao oaaa
+oo a oaao aooaaoaoo aaaa o aa aa<PAD>
+  ooa oa aaaaoaaaoaaao  oaaaao aa
+oaaa oaao aao aaa  aaaaaoaaoo  aa
+o  a o o aa a oa aaoa aoa aaoa aa
+a o aaoa aoaa  aa aaa  a  ao a  a
+aa a oaaao ooaa aao a ao aa oa oa
+ooo aoa a ao aaaaaoae  o oaa aaae
+oaoaoao oao aaao  aa a aaaaa aaaa
+ooaa aa aa aaaaa oacoaaaa aaaaaa 
+ o ao aaaaa aa aa  a a  aaaoa a a
+eo aaoaaa  a a aaaao  o oao   aaa
+o a oaaaao oo oa a o aaoa oaa aaa
+o o aaaaaaa   o aa a aa oaa ao aa
+oe oao oaaaoaa aa o  a aao aa a a
+o o a oa oaooaao aaa o aaaaaa aaa
+aoaa a  ooaa aaoo ao aaa aa aa aa
+oao o o a o aaao aaaoaaaa oaaooaa
+o o o  o aaaa aaa oaaaoaaoaaaa aa
+o o oa  oao  aa  a oaaao oao aaao
+aoo o aaooaa aaao oa oa aaa  o aa
+a  oaaa ooaa  oaa oaaaa   o o oak
+aoaaaaa   a ac oo o  aaaa   aa   
+o aa aaaaa aoao oao aaaa aoaa aaa
+ooo o a aoa aaaoaaaa a oao eaooaa
+o o aaoaaoaaoa oaa  aaao  aaao aa
+o oao oaao ao a  o oaaaao aaa o a
+eoooaa oaaoa  aa a ooa  aaaa  aaa
+ooa ooooa a aa a o o o  ooaao aaa
+oo aaooaa a o aaoo aaaaaa a a oaa
+oaoo  oaoaaoa aoaaa   a aa aaa oa
+aao oaaaooao aaaaa aoaoao oa a a 
+a aoaoa a oaao ao oaoa  o oaaa   
+oeooo o ao o aa ooao a o o   aaa 
+aoaaa ao a  aa  a aoo  oaoa oa aa
+o aa  aaoaaaoaa oaaa aaaaa aa aaa
+a o aa aoaooa a aa aaa oa  aaoo a
+oaaa aoaao aaa aa a  oaaa oaaao a
+o oa a aoaaaaoo a  aaaooaa  oaoaa
+oa aa  a o  a oao aao  oaaa oa  a
+ooa  o o oaaaaao  aaaaoaoaaaoa aa
+ao  aaaaao  oao aaa   aaa   oaa a
+oo aao aa  aa a aaa o a o aao oa<PAD>
+oo ao  a aa aa a oaaoooaao oo aoa
+ooao ao o a oa  a o   ao aaaaaa <PAD>
+ao oao o aaaa aaa o a  oaa a o  a
+aoao a a  a aaa  aao aaaao  aao a
+ao oaaa  aoo oaoaa ooaa aaa aa aa
+o aaaaaaaaaa o aaaaa  aoaoaoa a a
+oo a o a o  aa o ae aa aaaao oaa 
+ aoaaaoaa o aaaaa aa a aaaao aaaa
+o  aaaaooa o   aaaoaa a oaa  aaa<PAD>
+o aoa aa a aao aa aaa aaoaa aa  <PAD>
+ao  a o aaa aaaaa aaooaaa a aao a
+aoaaaa oaaaaoa aa oaa a aao oaaaa
+ oao oaaa aaa aa   aaao  a aao aa
+o oaaa aa eaaoaaaaao a oaoaoa oaa
+o oa o o ooaaooaoo aa  ooao  aooa
+aaaoa ao oaaaoo aaaa a aaoaaa   a
+oo o oaaaa aaaaa oaoa oo oaa o oa
+a o aa aaaa o oa  oaaa aaao aaa a
+o oaa oa ao aa o  oao  a aoaoa  a
+ o oaoa a aaa   aa oaaa  oa o aa<PAD>
+o o oao aaaa aaao oa  aaa oaaaa a
+ o  aaaa aoaoaaaa aoa o oaaaoaa o
+  o oaaao  a aoaoa aoaaa  aa a  a
+oao aa ao a aao  ao a aaao aa o a
+ o oo oa a aaaaa o aoa a aao oa  
+oo a oao o aaoa aaaoaooo oaoo  oa
+oo a aaoaao aaao aaa oea  aoo  aa
+o aaoaaaaaaao  a a oa ooa a aaaaa
+oo oao aa eaa  aaa  a oaoo  o a a
+oooa  aaa aaa aao a o  aaaaaaaa a
+ao o a aaoaa aaoaaaa oao oo oa a 
+o oo  aaaaao aaa  aa aaaa  aaoa a
+aa  oa aoao  ao aaaao aaaa a oa a
+oo o a a o aaaa o aa aooaa  aa oa
+ooa aoao ooa oao  a oaa o oa o oa
+eo oa a aaa aoa    o oaaaaaaa aeo
+oo o oao o aaa e a oaao  aao o oa
+oo aaaaaa a aaaoa a oaaao  aaaaoa
+oo ooao o  aa aaooo aa  oa  a o a
+oo oooaaao aaaaaaaaoaaa ao e a a 
+ao   aao aao aaooaao oa aaaaaa a 
+oo o aa a ao oa ao a aaoa aao oaa
+ooaao o ooaaa o    a aa aaaao aa 
+o oaaaa oaa aooa oo aaao  oaa o a
+aoo aooaa oa  aaoo aa o oao aaoaa
+oao o aaao  aa o  o aa oa  aao aa
+a o aaaaoaaao  oa o a o a aaoaa a
+oa aaa oaa aaoa aa ooa o  aaaa a 
+ooo a ao aaa aa a a a aaaaa aa a 
+oae  o aa o a aaaaa aoa  a aa a a
+a oa a a o aaoaoa  aaaoaa oaaaaaa
+e oaaaa  aoa  aa  o aaeao aaa o <PAD>
+ao  aao aaoa  aaa  aa a o ooaaaa<PAD>
+ooa o a o oaea oaoo aaaaaaa  a aa
+oao oa oaaa  a aao  o aa aa  aa a
+aa oao  a  aa a aaaoaa o o  o o o
+ao oaaaaaaaaoao o a a aaaoa aae a
+oo oaoaao  ao a oaa aaaaoaaooa a<PAD>
+oooaa o aaaoo aaa  aa oaa oa a   
+aoooa ao  aa  aaaa ao a oaao oa a
+  o o aao a o a oaa a  aaa aa o a
+o  o aa a o o aaaa o  a oaaoa o a
+oao aa a ao a aaaoa a  oaa  ao  a
+oc oo o a   aa aaaa aa oo aaa a a
+o  aaa o o e o aa a oaa a aoa a a
+ a a ao aoa aaoaa o aoaaoa aaaa a
+aooo aoaaa aaa ao aaaooaa a a  aa
+o o o aa o aaa oa   aaa a aaoa aa
+o aaa oaaaaaa  aa oa aaa  a a aaa
+oao oaaaoa o aoaaooaao aaa o aaaa
+oo o ao a  aaaaao o aa aaa oaoa <PAD>
+oa aa oaaaa o  aaaa  o ao o a aaa
+o a o aa  a o  aa a aaa aaaa o aa
+oo oaao aaoao  aao aao aaaoaaao  
+o oo ao  a o  aaoaao aa oo a oaaa
+eo oaa  oaaa oaaaa o ooa o  oaaaa
+o  o aa aa aaa a aaaaao  a oaaa  
+o o aa a  aaaa o o  o a aaao a a<PAD>
+oo a a aaao o oa oaoa aaa e aae a
+oo aaaa aoa aaae aa oaaoaaoe  aaa
+o a o aoa aaae aaaa    oao  o aaa
+aoo ao a aaaa aaa  aoao aaaa aaaa
+o o o ae aooo aa a o a aa aa a a 
+ oo aoa a a aa oaaa aoa  oa  aaaa
+o o o ao oaoaaa  a oa ooaaaaoa oa
+aa  aaaaaa aooa a aaaa o oaa oa o
+a aooa  o ao aa aaao a a aao o aa
+aooaa oea a oa  oaa oaa aooaooa a
+ao oaao  a  aao  oa  oaaoa aoo ao
+oaa aao a o aa oaa o o o  a o aaa
+ aa oa   ao oaoaa o aaaao oaaa  a
+oo a oaa o o a e aoa aoaa  oao aa
+oaooaa  aao aooaa  aaa oa o oa  a
+aoa aa o aaa a o  aaa oaa aa aaaa
+ao oaa o a aaa  oaoaoooaaoo aooa 
+ oaaaa o a aao aoaaaoao  oaoo aaa
+a ooaaa  aaoooa o o aa aaaoaao  a
+ o aaoa  o aaoaao aaaao aaaao  aa
+oa  oo  a o aa a o aaaaao aa aaa<PAD>
+o oaoaaooe aaaoa  oaoaaaoaaaaaa k
+o aa aaooa aaaaao aaoa oaaaaooo a
+o o aao   a o ooaaa aoa  a aooaaa
+ooaaoooo oaa a e o oaaa oaao aaa 
+o  a ooaa aac o aa aaaaooo aaa a<PAD>
+o oa aaaa o  aaao oa  aa  aoaa aa
+aoa aoaa aaaao aaa  aaoe o o aa a
+oo aao a  aaa aaao ao aoaaao o aa
+aoa oa  aaaa o  ao oaaa   aaaaaa<PAD>
+oo a   a aaaoaaaaaaoa o oo aa aaa
+aoaa o aa  a aaaoa aaao oaa o aaa
+o aoa  aaa  aaaa a aoaoaoaaa  oaa
+aoo a aa aaaoo oaaa a oaaaaoaaa o
+oa a aa a   aoaaao o oaoaa a o a 
+oo ooaaoaaao oo o  o o oaaa aoa a
+aaao ae aaa ooa aaa aaoa  o o a a
+ o  a ooa aaa oaa o a aaaoa o a a
+ oa aoaaao oaaaao aaooao  oa o aa
+a ooaaoaa aao aaa oa aaaao a a  a
+o oaaoaa aoaa  aaoa oaaoo a o a <PAD>
+ao  o aao a oa o oa ooaaa aaoo  o
+e  ao oa aa   aa aa oaaoo aaa a a
+oao aaa o o oo aaao  oa oaoao aa<PAD>
+oo aaa o a a aa  ooaa aa aoaaa oa
+o o a aa aa a a a oaaoaaaa  aao a
+ooa  ao aoaaa o  a a o aaoaaoo a 
+o oao ao ao  oaa oaa aao    aao a
+oo ao aa   aa aoa a o a aaa o aaa
+o oa ao oao aoaaaaa  oaaaao aao a
+aoo ao a aaoa aaaa o o  aa o a o 
+oo oaoaaaaa aa o  aaaao aa aa oaa
+aaaa o a a a aoa a o  a aa o aoa 
+oao aa o aa o a aaao  aoaa aaoa a
+  aao a aao oa  oao aoo aaao o aa
+o aaa oa aao  a  aaa aaaa aa aa a
+eaa aa  aaaaa o a   aaaooa aaao o
+ao a aaao a aaaaa o aaoa oaaa aaa
+o  aaaa a aoaa  oa o oaa a aaaoaa
+aoo aaao oaaaaa oa a o a aa  a aa
+oo oaaa aaao o  a o a aaaao aao a
+c o a  aaaaa aa a aaa  o aa  aao 
+o  aao o o aoo oaoo a oao oaaa o<PAD>
+ o a oa a o aooa o aoa o a o oaa 
+aoaaaoa aaaa aaoa  aoaa aaa  a aa
+  a a a oaaoooa aaoaao aaaaaoao a
+aao oao aaaa ao a  aa oa aaoaaaaa
+a oaaaaoaaaa aoa a aa aa aaaaaoaa
+aooaaaaoaa o  aao oa o aa aoaa  a
+oo a oaoa oaea aaa  ao aaaoo aa <PAD>
+ooaaoaa  o oaoa  o a aaoaaaao  oa
+aaoa  aaoa aa a  aaoo aao a  o aa
+o aaa aaaao oa aaaaaoa a  aoa aaa
+oo a oa  oa aaoaoaa a o a oaaa oa
+aaaaa o ao ao a oaaoaoaaoo aaaa o
+o  a o o o aa aaaaao  a oa aaa a 
+o oaoa a o  aea o o a oaa oa aa a
+oao a oo  o o oaa aoaaa a aaoo an
+ao o oaaa a   aaaaoaooo o oaa aaa
+oooe a aaoa aaaa aa   aaoa a aoaa
+o oaaaa oaao  aao  o ao a aaao aa
+ oo aoaa  oa aaaoa aoa aa a oaaoa
+  ooaa oaaaa o  aao oaoaaa aa a <PAD>
+aa  ao aaao oaaaa o aa oaaa aa aa
+oaa aoaa o aaa aaao a o   oao  a<PAD>
+aaaoooa  aoaao  oaoo a aao o   aa
+a oaaaoa aoo oaao  aoaooo aoa o a
+oa ao aaaa oa a a oaa  aaaao aaaa
+  a aaa o aa a oa o a aaa  aoaa  
+a ooo a o o  a oaoa oaao   aa a a
+oaaa aaaoa a  o aoa oaaa   o a  <PAD>
+ooo o oea aoa oaa  ao   a ao  eoa
+o ao  aa aao  aa oaa aa a oaao aa
+ooa o aaaaa oo a aaa aaaa oaao  <PAD>
+ao  aa oaaoa aaaoo aao  aa o aa a
+o oaa aa aa o  a a aaa aao aa a a
+oo a aao oa  aaa oaaa aaoaaaaaaaa
+ oa aaaaao  aaoaaaa aa aoaaoaaao 
+ooo oaa  ao oo o oaao  oa o oaa a
+oa aaaoa a oaa  aaa aaaa  ooa   a
+a o aoaaaoaaoa aa  aaao a  aaaa o
+oo  a  a oaao   aaao  a aao oaaaa
+oaoo a  aaoaa aa   a o aa oaaa aa
+oaa aaa aao ao o o  aaa a oaa aa<PAD>
+a o aa oaa aaaaaoa  a  aaaoa aa a
+aoo o oaoo aoa aoaooaaaao  aa a a
+o  o aao  oaa   aao o a o a o a <PAD>
+a ooa o aa aao aaaaa   oaa oaao a
+oaooaaaaao  a o aa a a   aao o oa
+oo  aa oa aa   aoaaa a  o  ao a a
+ooa ao   oaaaaaa a o  aaoa oaa oa
+ o aa oaaa  a o a aa o ao o o a a
+oe oa aaaaaaaaeaa  aaa aa  aaaoa<PAD>
+ooaoo o a o aaaa aoa o aoaa o a a
+aoooa  aaa oaa a oao  aaaa  aaoaa
+ oa aa a aoaao ao oaaa  oaaaoo  a
+oooa oaaoo a aoo a o aa  a a o aa
+oa o aaa o oaaa a oao aaaaoaaaa  
+a o oaaoaaao a oaaao oa aa o  oaa
+oo o a a o  aa oaoo  aaaoaaa o aa
+ao  aaaeoaaao oaa  oa o oooaaaa a
+o   aa a ao o  aaaaaa o a aao a a
+oo o oaa aa a aaa aaa aaoaaaoo oa
+o  oao o  a a  aaa o a a o aoaa <PAD>
+oooaaa aaaaao  o o o aaao   aaaaa
+aoa aaoaoaaa aaa a aaaaa o   aaao
+aa  aa o aoaaaao  aa o  aaa o a a
+a oao o oaoa aa aaoa o aao a ao a
+o oaaaao o o aaa o ao  aa  aaa o<PAD>
+ooo aaa aaaaa oaoa o  a  a aaaa a
+o aaoaa oaoa ao  a o aa o aca aaa
+oaoao oa aao  aaaaaaa  aoaao o a<PAD>
+oa  aa aaaa ooaaae  aaaoaoa   ae 
+oe oao o aaoa ao aao oa o oaa aaa
+ao  oaa a a a aaaaaaoa  oa a aaaa
+oo aaao eaaoo a aao a ao aa oaaa<PAD>
+o o oaa ooa  aaooao aao  oao o aa
+o oaaao aa aaao  o a oaaao a aaa 
+oaa  oaao aoaaa aao  aaa a a aaea
+oo a aaaoao oa o aaa  aaaaoo aa a
+oaooaao oao ao o  aa o aa oaa a a
+ooa oo o aa  a  aao aaoa aao a aa
+o ooaa a aaa  aoa oaaaaaa a aa  a
+co aaa aaaaaooa a aao oo aa  aa a
+a oaa a aa aao  aa  aaaoa aaaao a
+aao aaaoa aoaao aa ooo  aaa aaoa 
+oaooaaoaaa oa aaaa o o aa  aaaoa 
+ao oaaaoo aa aaa o o  o aa aaaaoa
+oaa o oa oaaa oo aoaoa  aa a oaa 
+o oooaoaaoo a aao aa oa o aaa o a
+o aaoao o oaaa  ao o oaaoa a  aa<PAD>
+o o aa aoa a ooaaa o aa aa aaa a<PAD>
+oooaaaaoa a a oaa  aoa oao a o aa
+o oaaaooaaaooa  aaa aooc oaao aaa
+oo aaoaa oaao  aoaa  aaa o oa aaa
+o a oaaa o o o oaoa o aoaaaao aaa
+ooaaaa aaaoaeaoaaa oa a aa  aaaa<PAD>
+a aa a oa  oaaoaaa  oo a ao o o a
+oo  aoa aoa aoaooa aoa o aooaa o 
+ao oaa aa  aoa o oaaaaoa oaaa a a
+a o aa ao aa aoa   oaao a oaaaa  
+oaao oaa aa aoaao aa o aaaaoaaa a
+oa a aa oa   a ooaaa o aaaaoa a a
+o   aa aaa ao oaa aaaaeoaoa aa aa
+ ooa ooaa  oaoa oao a aaoaa  aoa<PAD>
+ooa aa aaaao  oao oaoa  aaaaooaa 
+ooaoo oa  oaaaaa aao aaaaa aooa a
+oo oa o aaaaaoa ooao aao aaaoaa a
+oo a aao oaoa ao o o  a aaa aaae<PAD>
+ oao o aa aoa aa o a oaaaaao o a 
+ooa a a aaa aa o  oa o aaaaaoaa <PAD>
+oa ao aa   oaaa a o oa  aaaoaaaea
+o ao  o a aa aa aaaa  a aaaao a a
+co o a aaa  aaaaaaa aaaoooaao ao<PAD>
+aao a ao a a o aa  aoaaaaaaaaaao<PAD>
+o aaa a ao aaoa o oa a aa aaa o a
+oooao o aaa   aaaaaa oaaa aaaaaaa
+o a aoaaaoo o oo aaaaa  o aaaoa a
+ao ao aaoaa  aao aaeoaaao aaao aa
+ao  aaao  oa aao aa o  a a oac  o
+ao  aaa oa a a oaaaaoa a a a aaa 
+ao aaa aaao aaao  a a oooaaooo  a
+oao a aaao aaa oaao aaaoao  aa oa
+oooao oaaooo a  aaao aaaoe o aaaa
+o o aaa  aaao  aa  aaa aa a o aao
+o oo a a aoao  oa o oo oao aooa a
+oa ao  a a aaaaaao aa  aoa   o aa
+a aoo aooao aaao aao aaaao a o aa
+o oaa oa aa a o aa a aa a a a o o
+ao ao aaa aa  aa   aaa ao aaaa a<PAD>
+oo a oaa o ao  aa a o aaa aa a  a
+ ooaaaoa oaaoaaaa aaa a o aaa a a
+ aeoo o oao aaaao aaao aaaao oa a
+oo  aaae oaaaaaa o oaa oao o aaa 
+o aao oao a  aoa aa aa aa  ao a a
+o  aa oa aoao  o o aaaooa ooaoa o
+aa oaaa o oaaooe o a a a a  aao a
+o a aaaaaoa a o aaao aao   aa a a
+ao  a o aaoa  aoa oaoo  a a oaoaa
+oo aa oaa aaoa  a o oa aoaaoa aaa
+aoaa o oaaaoaaaaaaaaa a  aao  aaa
+o aooa  aaaooo o aae o oaoa a aaa
+ooaoaoa  aaaao aaaoo aa aao aaaa<PAD>
+aoo aaa  aoo oa oa o   aaaaoa o a
+aooaaaa ao o aaaoa o a aao aaao a
+ao  aaao o aoa  a  ao a aaaaaaaoa
+ao  aa  aaaa a a aaaaao aaa aa a<PAD>
+oooaoaa aaa  a eaaoeaaao ooaa aa<PAD>
+oaa oo a aaoaaoae o aaaaoaao aaaa
+ o aa  a o  aaao  aaa o oaaaoaa a
+ooo aaoooo aaaaoaa  aaaao aaaaa a
+oo  o o aao a aaa a oo  aao aa  a
+aaooaa ao  a aaoaaa aa aoaao o a<PAD>
+aao  aaooooa oaaoaaa a aaoaa   oa
+o o oa aao a  a oaaaoaaaaaoa  aaa
+o  oaa o aaao a a a a ao  aao a a
+aao aa aa  aaao  a aaao  aaa aaaa
+a ao aa o a aa oa oaaaa  ao aa aa
+o o o a  aao aa aa oaao aaaooa aa
+eo aaaaoaaaao o a oao  ao aoo a k
+ooa aoa a oao aaaaoa oaaaa aoaa <PAD>
+a   aaa o oaa aaaaaaoaa a  aoaoa<PAD>
+aa aoaoaoaca  oaa  ao  oo aaooa a
+oa o aa o aao oaa o a  aoe aaa aa
+oao o aaa a  aaaaaa o aoaaoo o aa
+oa o oaa o a a aa oa aoaaaaaoa aa
+aao aaa o a o aa a aaaaaoaoaaa a 
+eoaaoca oaoa aaaaaa oaaao  aaa aa
+oa  oaaaa oa aaaa oaaoaaa o o aaa
+oo a aoa oa oo oaa aaaaoa oao aa<PAD>
+o oaoa oaaoa aao a oaaooaaa aa aa
+oo a a aaaooaaaeaoa  aaao a aaaaa
+aao aaaoaaaa  a oa a o a aa o a a
+oaaaoaaoaaaoao  aao ooaaooaaa ao<PAD>
+o o aaaa aaaaaao oaa  a aa a oa a
+aoo aoaa o  aaaoaa  aaao  oaoa  a
+o oao  aaaa a aa aaaaa  a ao o aa
+ao  ao o a a aaaoa oa oaaaa  a oa
+o o a a oaaoao a   aa  aaa o aoa 
+o o aao a aoao oaaao aa  o aa aaa
+ao a ao aaoaaaoaaa a a  o aoaaoa 
+aoa aa  aaaa a  oaa aao  aa a a a
+aoa aoa a a o aao  ao a oaaaoaa  
+ao  aoaa o o aaaaa aaaa o a oaaaa
+oo aoa aa a aa a o a o aoaa   aaa
+oa o a a aoaa o aoa ooaa a a aaaa
+oooa o oa a aaaao aa    aaa  aaaa
+ooo a  aa aaa aaaaaaaoaaoaoaa  aa
+o oa oaaoa o aaaa o aooa aaa  oa<PAD>
+o o a oa aoaaooo oaaa  aao aoo  o
+oa ao o aaa aaa  aa ao aa aoa aao
+ooao aa aa  a oaoaoaao  aaa aa o 
+oo ooaoaa ooaao ao aoo ooo a  aa 
+coaa aaao  a aaa a aaaaaao a oao 
+e a ao aaa aaaa  a o aaaooaa aaaa
+eaaaoa oa a  aa aoa ooaaaa a aaaa
+a a oaaaao aoaaooa oaao  a aaa o 
+  oaoo oa a oaoaa ooaaoo aaa oaa 
+oa oaaoo aaaaao  aao  aaao ao aaa
+o oa aa  ao oe o aa aoaaa aoa  aa
+oe a eoaao ao  aaa aaa c oaa aa  
+a o aao oa ao o a  o a aaaaoaa a 
+oo aa  a ao aaaaa  aaaa aaaaaaoea
+ oaoaoa aa aaoa aa a oaa  aaaao o
+oa oaa aaaa a o aao  oaaa oa aa a
+oaooaa   ao aooa aaaoaa   oa a  a
+oa aaa o a o  oa oa o aoo aaooa a
+oaaaoao o a aaaaaao  oaaa  oaao a
+a ao aa a aa aaaoaaa aaoaaaaaao a
+oo  oaa a aoaaoo aao a o aa o ao 
+oooaaao a aaoaoa o o  aaoaaoaaoaa
+ao o oaea  a aaa  aoo  oaaao a oa
+ooaa aaaa aaoa   aa aa oooaa oa a
+oooa  o oa  ao oa a  aaaao oaa o<PAD>
+ o  aoo o oa  o aaa o aaoa  o aaa
+aoa aoaaoa aao o ao aoaaaa o    <PAD>
+o  aao ooa oaooa o oao oaoa  aoaa
+ao  oa aaaaa aaaoaaa a aao  aa  a
+ao aa  aaao aaa a aaoo  ao o a  a
+a oo  aaa a   a oa aoa oa  aaeoaa
+oo   aao aao  aaa aaoaao oaaaoa a
+aoo aaoaaaoao aoaaao  aaoa ooaa a
+oeo o aaao a aaaaaoaaa a   a aa e
+oa a aaa  aaa o ao aa oaae oaoaa 
+ae a a aao a aoaa   aa oo  oaa  a
+ao  aaa oaaa aa a oaaa  oaao aao<PAD>
+aa o oa aaa aoo  o a o o aa aao a
+o o  aaoo aaaaao ao oaaoao oaa oa
+oo o o a aaaao  aao aoaoaa  a a a
+o o a  aaaae aaoaaao  aoaa  oaoo 
+ oaao oaa oaa aa  aaao  aooo aa a
+o o aaoaoa aaoaoaa aaaaa aa oa o 
+ao oaaaaaaaao oa   aoaa o oaaa a<PAD>
+oao a  a o oaaoaa o aao aaa aa a<PAD>
+o oa ao oaa  aa aoa aaaa  oa aa a
+eea o o oaao aa aaaaaaa a oaaaaaa
+oo  oaaa aoa a oa aaaoa a a oaaaa
+aoa a aa a aaaaaaa   aa aaao aaa<PAD>
+  ooaaa o a ao aaa a aoa a ao o  
+oo o aaaa ao aoaaooaaaaoao aao a 
+o oooaao aao a aaaoaaao aaaa aaoa
+aoo oaaaaoa oaa aa a aa a  o o  a
+oa aoa a  a aaaa oa a aa e o o  a
+ooaoa ooaaa oaaao aaaa aoo aaaaee
+ aoa ao a o aaoa aaa a ao ae aaaa
+   aaaaa a ao a aaoaaa aa  a o oa
+o aaoao caa  ao  o o aoa o aa o e
+aoaa aaa oa oaa a aa  a a aaaoa a
+o o oaa aaaaaaaa a o aa a o o aaa
+ao  aa a a o aaoa a o aao aaaa a<PAD>
+oo a oaaaa a aaoa   aoaaa oo aaa<PAD>
+c  o ooaaa ooo aoaa  a aoaa oo   
+o   ao   oa a a aa oaa   o a o aa
+ooo aaao aaaao oa a o aa aaa aa a
+o oaa aaaa oa    a o aaaa aaaa aa
+aao oaa o  aoao  a aoaaa o a aa <PAD>
+o o oaoaaoaa aooaa oaaa a a  a a<PAD>
+oaoaaaaaoaaa oaao oa a aaaao aa a
+oo aa a aaaaa  oa oaaa o oa o    
+ao oaao aaoaaaaao aaa aaaaaoaa  a
+oo oao aoaaa a  aoo a aaoa a aaaa
+ooaaaaa aaaaaa a  oa o aa aooa  a
+a a  a a  a o aaa o aao  oo o   a
+aaao o aaaaoaaa aaaoo oo aaa a aa
+o  a o aaoaaaaa a a a oo aaaoa  a
+e aooaa oaaaaaa o oao oaaaaaaa  a
+oo aaa aaaa aa ae o ao aaaa o a a
+ooo aoa a oaa aa a a oaaao o aaa 
+a aaa aaoaa a  oaa  aaaaao oaa  a
+ooa o aaaeaaoa o aao aa aaa o aaa
+oaoaoao a o aa  o a ao aaaaoa a a
+ao aaa o a   aaa o aa  o oa oaaoa
+a o o aa oaoo   aa aaooa a a  a o
+eo o oa a a aaaaaoaa o  aaa o o a
+a oe aa aaa aoaoaa  aaoaaaao aaa 
+o o ooa a aaaa aa o  a oao aa o e
+oaaaoao aoo aaaoaaa  aaoo oaa oaa
+oaoaa o aa oooo aa o oaaaoaaa oa 
+oo ooaoa o  aaao oao aaaaaaaao  a
+oo a o a  a aaa  oaoa aooo  aaoaa
+o oao oa a aaa a aoaaa a oaaaoa  
+ oa ao aaoa ao aoa o  a oa a aaaa
+ao  a aoaa a  ao aa o aaa oaao aa
+oo a oaaa oaa oaoaoaoao aaa o aa<PAD>
+o aooa oaaaoao oaaa a ao  oao a a
+ao  aoaa a a a aaao o aaaa aaaaoa
+ao aaaa oa ooa aaa aaaaaaaaa  a  
+   aa aaa o a a aa aoo oo a a aao
+ao ooao  ao aaaa o o aaa o  oao o
+aoaaao a ao aaa aaao aoaaaoaaooaa
+aooo  o aao aaa  oaa aaoaa o oaaa
+ oo aa aaao aaaa aaa ao aoaoo oca
+o aa aooaao a o  o o  a a oaaa aa
+oo o ao  oo oa a aa aa oaaaoaa aa
+ o o oa  oaaoa aaoaoa aaaaaaoa  a
+ooaao aao aooaaaaaa  aaaae aa aaa
+ o  aoaa aa oa aaa o aaaooaao a  
+oa a ao aaoa o aa aaa  oa aoa aoa
+ aaaa aaaaoa a oaaa ao   aao  o a
+o a o aaaaaa o aaaaa o aaooa  oaa
+o oo aaoaaa oo  aoo aaoaao oaoo a
+oao oaaaaaoaaa oaaaa a  a oa o aa
+o  a oaa o aoo oa oaa oo oa o a a
+oa oaaoaa a aaaa  aoo aooao ao  a
+ao aa o oa oaaa  aaa oaaa aaaaao 
+o o aa a oaaaoaoa a  o aaa a oa a
+ o   o a aa ao o aaao oa oaoa aaa
+o o  oao a aaaooao aa a aao oaa a
+oao aaaoaa a  aaao o a o o a ooaa
